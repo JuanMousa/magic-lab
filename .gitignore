@@ -1,0 +1,15 @@
+# Vim recovery files
+*.swp
+*.swo
+
+# Editor backup files
+*~
+
+# Local Envieroment Files containing Secrets 
+.env
+.env.*
+!.env.example
+
+
+# Private local credentials
+secrets/
