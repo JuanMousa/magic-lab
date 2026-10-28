@@ -12,4 +12,7 @@
 
 
 # Private local credentials
-secrets/
+secrets/ 
+
+# Local draw.io diagram exports
+*.drawio.png
