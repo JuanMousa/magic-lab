@@ -1,4 +1,5 @@
 # Vim recovery files
+
 *.swp
 *.swo
 
@@ -14,5 +15,3 @@
 # Private local credentials
 secrets/ 
 
-# Local draw.io diagram exports
-*.drawio.png
